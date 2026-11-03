@@ -20,4 +20,4 @@ The website should reflect Cristy's own professional identity and preferences: s
 
 Do not deploy a generated placeholder over the existing website.
 
-Project index: [anevum/anevum](https://github.com/anevum/anevum) · Organization handoff: [GitHub reorganization](https://github.com/anevum/anevum/blob/main/handoffs/ANEVUM.OPS.PACKAGE.2026-10-30.002.md)
+Project index: [devonalanakins/anevum](https://github.com/devonalanakins/anevum) · Organization handoff: [GitHub reorganization](https://github.com/devonalanakins/anevum/blob/main/handoffs/ANEVUM.OPS.PACKAGE.2026-10-30.002.md)
