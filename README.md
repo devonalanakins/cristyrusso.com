@@ -1,4 +1,10 @@
+<p align="center"><img src=".github/assets/readme-hero.svg" alt="Original Cristy Russo project illustration" width="100%" /></p>
+
 # cristyrusso.com
+
+> **Public documentation note · November 3, 2026:** This repository contains documentation for a potential future website redesign, not a verified production replacement. Professional content, licenses, rights, public claims and publication require Cristy's review.
+
+[Repository status](https://github.com/devonalanakins/cristyrusso.com) · [Current reviews](https://github.com/devonalanakins/cristyrusso.com/pulls)
 
 This repository is the intended public-source home for a future redesign of Cristy's professional website, **not** evidence of a published replacement.
 
