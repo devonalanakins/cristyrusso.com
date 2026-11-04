@@ -26,4 +26,4 @@ The website should reflect Cristy's own professional identity and preferences: s
 
 Do not deploy a generated placeholder over the existing website.
 
-Project index: [Anevum project registry](https://github.com/devonalanakins/anevum) · Historical handoff: [GitHub reorganization](https://github.com/devonalanakins/anevum/blob/main/handoffs/ANEVUM.OPS.PACKAGE.2026-10-30.002.md)
+Historical source context: [October 2026 repository handoff](https://github.com/devonalanakins/anevum/blob/main/handoffs/ANEVUM.OPS.PACKAGE.2026-10-30.002.md). This is a separate professional website; Cristy retains authority over public professional content and publication.
