@@ -1,4 +1,10 @@
+<p align="center"><img src=".github/assets/readme-hero.svg" alt="Original Cristy Russo project illustration" width="100%" /></p>
+
 # cristyrusso.com
+
+> **Public documentation note · November 3, 2026:** This repository contains documentation for a potential future website redesign, not a verified production replacement. Professional content, licenses, rights, public claims and publication require Cristy's review.
+
+[Repository status](https://github.com/devonalanakins/cristyrusso.com) · [Current reviews](https://github.com/devonalanakins/cristyrusso.com/pulls)
 
 This repository is the intended public-source home for a future redesign of Cristy's professional website, **not** evidence of a published replacement.
 
@@ -20,4 +26,4 @@ The website should reflect Cristy's own professional identity and preferences: s
 
 Do not deploy a generated placeholder over the existing website.
 
-Project index: [Anevum project registry](https://github.com/devonalanakins/anevum) · Historical handoff: [GitHub reorganization](https://github.com/devonalanakins/anevum/blob/main/handoffs/ANEVUM.OPS.PACKAGE.2026-10-30.002.md)
+Historical source context: [October 2026 repository handoff](https://github.com/devonalanakins/anevum/blob/main/handoffs/ANEVUM.OPS.PACKAGE.2026-10-30.002.md). This is a separate professional website; Cristy retains authority over public professional content and publication.
